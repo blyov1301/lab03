@@ -206,11 +206,10 @@ cmake -S . -B _build && cmake --build _build
 ```bash
 ./_build/solver
 ```
-*
 9 16 25
 -------------------------
 error: discriminant < 0
--------------------------*
+-------------------------
 ## Коммит и push
 
 ```bash
