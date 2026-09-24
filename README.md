@@ -172,9 +172,9 @@ cmake -S . -B _build && cmake --build _build
 ```bash
 ./_build/hello_world
 ```
-*-------------------------
+-------------------------
 hello, world!
--------------------------*
+-------------------------
 
 ```bash
 # solver
